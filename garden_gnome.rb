@@ -12,6 +12,7 @@ class GardenGnome
   def shout
     "GNARLY!!!"
   end
+  def 
 end
 test_gnome1 = GardenGnome.new 
 test_gnome1.name = "Carl the Crappy"
