@@ -1,8 +1,8 @@
 # Code your instances here
-class GGnome
+class GardenGnome
   attr_reader :name
   attr_accessor
 
   
 end
-garden
+GardenGnome.new
