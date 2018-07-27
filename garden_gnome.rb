@@ -9,6 +9,9 @@ class GardenGnome
   def gnaw
     "Gnawing on a tree!!!"
   end
+  def shout
+    "GNARLY!!!"
+  end
 end
 test_gnome1 = GardenGnome.new 
 test_gnome1.name = "Carl the Crappy"
