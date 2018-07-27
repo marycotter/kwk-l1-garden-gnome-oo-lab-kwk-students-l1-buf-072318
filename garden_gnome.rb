@@ -5,4 +5,4 @@ class GardenGnome
 
   
 end
-GardenGnome.name = ("Carl the Crappy")
+carl_the_crappy = GardenGnome.name("Carl the Crappy")
