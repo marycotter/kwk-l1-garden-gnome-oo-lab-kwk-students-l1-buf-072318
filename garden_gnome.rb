@@ -1,8 +1,9 @@
 # Code your instances here
 class GardenGnome
-  attr_reader 
+  attr_reader :personality
   attr_accessor :name, :age, :gluten_allergy
-
+  def initialize(personality)
+    @personality = evil
   
 end
 test_gnome1 = GardenGnome.new 
