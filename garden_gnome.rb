@@ -5,4 +5,4 @@ class GardenGnome
 
   
 end
-GardenGnome.new
+GardenGnome.new("Carl the Crappy")
