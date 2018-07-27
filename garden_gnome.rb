@@ -2,8 +2,8 @@
 class GardenGnome
   attr_reader :personality
   attr_accessor :name, :age, :gluten_allergy
-  def initialize(evil)
-    @personality = evil
+  def initialize
+    @personality = "evil"
   end
 end
 test_gnome1 = GardenGnome.new 
