@@ -1,7 +1,8 @@
 # Code your instances here
-class Gnome
+class GGnome
   attr_reader :name
   attr_accessor
-def initialize
+
   
 end
+garden
