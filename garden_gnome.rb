@@ -5,5 +5,5 @@ class GardenGnome
 
   
 end
-GardenGnome.new = test_gnome1
+test_gnome1 = GardenGnome.new 
 test_gnome1.name = "Carl the Crappy"
